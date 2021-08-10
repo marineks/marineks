@@ -12,9 +12,6 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # ... other options
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Display full year instead of half year
-    
+          plugin_isocalendar_duration: full-year
