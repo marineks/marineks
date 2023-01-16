@@ -11,8 +11,10 @@
 
 ![Metrics](https://github.com/marineks/marineks/blob/main/github-metrics.svg)
 ![Metrics](/github-metrics.svg)
- -->
- 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+ -->
+ 
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
