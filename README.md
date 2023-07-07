@@ -4,7 +4,7 @@
 <h1>Hi 👋, I'm Marine</h1>
 <h3>A computer programming student @42 from France, Paris</h3>
 
-- 🌱 I’m currently learning about **c++**
+- 🌱 I’m currently learning about **typescript**
 
 - 📫 How to reach me: **msanjuan@student.42.fr**
 
@@ -29,5 +29,3 @@
 ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marineks&show_icons=true&locale=en&theme=tokyonight" alt="marineks" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marineks&theme=tokyonight" alt="marineks" /></p>
