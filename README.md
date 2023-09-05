@@ -4,8 +4,8 @@
 <h1>Hi 👋, I'm Marine</h1>
 <h3>A computer programming student @42 from France, Paris</h3>
 
-- 🌱 I’m currently learning about **typescript**
-
+- 🌱 I’m currently learning about **cybersecurity**
+- 💡 My current side projects : my portfolio and a mental health tracker mobile app
 - 📫 How to reach me: **msanjuan@student.42.fr**
 
 
